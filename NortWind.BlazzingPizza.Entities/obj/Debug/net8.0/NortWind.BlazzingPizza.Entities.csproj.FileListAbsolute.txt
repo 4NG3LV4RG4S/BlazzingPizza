@@ -1,0 +1,22 @@
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Entities\bin\Debug\net8.0\NortWind.BlazzingPizza.Entities.deps.json
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Entities\bin\Debug\net8.0\NortWind.BlazzingPizza.Entities.dll
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Entities\bin\Debug\net8.0\NortWind.BlazzingPizza.Entities.pdb
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Entities\obj\Debug\net8.0\NortWind.BlazzingPizza.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Entities\obj\Debug\net8.0\NortWind.BlazzingPizza.Entities.AssemblyInfoInputs.cache
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Entities\obj\Debug\net8.0\NortWind.BlazzingPizza.Entities.AssemblyInfo.cs
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Entities\obj\Debug\net8.0\NortWind.BlazzingPizza.Entities.csproj.CoreCompileInputs.cache
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Entities\obj\Debug\net8.0\NortWind.BlazzingPizza.Entities.dll
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Entities\obj\Debug\net8.0\refint\NortWind.BlazzingPizza.Entities.dll
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Entities\obj\Debug\net8.0\NortWind.BlazzingPizza.Entities.pdb
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Entities\obj\Debug\net8.0\ref\NortWind.BlazzingPizza.Entities.dll
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Entities\bin\Debug\net8.0\NortWind.BlazzingPizza.Entities.deps.json
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Entities\bin\Debug\net8.0\NortWind.BlazzingPizza.Entities.dll
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Entities\bin\Debug\net8.0\NortWind.BlazzingPizza.Entities.pdb
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Entities\obj\Debug\net8.0\NortWind.BlazzingPizza.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Entities\obj\Debug\net8.0\NortWind.BlazzingPizza.Entities.AssemblyInfoInputs.cache
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Entities\obj\Debug\net8.0\NortWind.BlazzingPizza.Entities.AssemblyInfo.cs
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Entities\obj\Debug\net8.0\NortWind.BlazzingPizza.Entities.csproj.CoreCompileInputs.cache
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Entities\obj\Debug\net8.0\NortWind.BlazzingPizza.Entities.dll
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Entities\obj\Debug\net8.0\refint\NortWind.BlazzingPizza.Entities.dll
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Entities\obj\Debug\net8.0\NortWind.BlazzingPizza.Entities.pdb
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Entities\obj\Debug\net8.0\ref\NortWind.BlazzingPizza.Entities.dll

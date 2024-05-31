@@ -1,0 +1,34 @@
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\bin\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.WebApiProxies.deps.json
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\bin\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.WebApiProxies.dll
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\bin\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.WebApiProxies.pdb
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\bin\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.BussinessObjects.dll
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\bin\Debug\net8.0\NortWind.BlazzingPizza.Entities.dll
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\bin\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.BussinessObjects.pdb
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\bin\Debug\net8.0\NortWind.BlazzingPizza.Entities.pdb
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.WebApiProxies.csproj.AssemblyReference.cache
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.WebApiProxies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.WebApiProxies.AssemblyInfoInputs.cache
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.WebApiProxies.AssemblyInfo.cs
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.WebApiProxies.csproj.CoreCompileInputs.cache
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\obj\Debug\net8.0\NorthWin.4C576BEA.Up2Date
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.WebApiProxies.dll
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\obj\Debug\net8.0\refint\NorthWind.BlazzingPizza.Frontend.WebApiProxies.dll
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.WebApiProxies.pdb
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\obj\Debug\net8.0\ref\NorthWind.BlazzingPizza.Frontend.WebApiProxies.dll
+C:\NorthWind\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\bin\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.WebApiProxies.deps.json
+C:\NorthWind\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\bin\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.WebApiProxies.dll
+C:\NorthWind\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\bin\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.WebApiProxies.pdb
+C:\NorthWind\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\bin\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.BussinessObjects.dll
+C:\NorthWind\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\bin\Debug\net8.0\NortWind.BlazzingPizza.Entities.dll
+C:\NorthWind\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\bin\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.BussinessObjects.pdb
+C:\NorthWind\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\bin\Debug\net8.0\NortWind.BlazzingPizza.Entities.pdb
+C:\NorthWind\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.WebApiProxies.csproj.AssemblyReference.cache
+C:\NorthWind\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.WebApiProxies.GeneratedMSBuildEditorConfig.editorconfig
+C:\NorthWind\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.WebApiProxies.AssemblyInfoInputs.cache
+C:\NorthWind\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.WebApiProxies.AssemblyInfo.cs
+C:\NorthWind\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.WebApiProxies.csproj.CoreCompileInputs.cache
+C:\NorthWind\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\obj\Debug\net8.0\NorthWin.4C576BEA.Up2Date
+C:\NorthWind\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.WebApiProxies.dll
+C:\NorthWind\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\obj\Debug\net8.0\refint\NorthWind.BlazzingPizza.Frontend.WebApiProxies.dll
+C:\NorthWind\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.WebApiProxies.pdb
+C:\NorthWind\BlazingPizza\NorthWind.BlazzingPizza.Frontend.WebApiProxies\obj\Debug\net8.0\ref\NorthWind.BlazzingPizza.Frontend.WebApiProxies.dll

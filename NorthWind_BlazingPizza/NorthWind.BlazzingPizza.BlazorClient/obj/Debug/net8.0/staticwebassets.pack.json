@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\NorthWind\\BlazingPizza\\NorthWind_BlazingPizza\\NorthWind.BlazzingPizza.BlazorClient\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\NorthWind\\BlazingPizza\\NorthWind_BlazingPizza\\NorthWind.BlazzingPizza.BlazorClient\\obj\\Debug\\net8.0\\compressed\\oaoliv7zq2.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\NorthWind\\BlazingPizza\\NorthWind_BlazingPizza\\NorthWind.BlazzingPizza.BlazorClient\\obj\\Debug\\net8.0\\scopedcss\\bundle\\NorthWind.BlazzingPizza.BlazorClient.styles.css",
+      "PackagePath": "staticwebassets\\NorthWind.BlazzingPizza.BlazorClient.styles.css"
+    },
+    {
+      "Id": "C:\\NorthWind\\BlazingPizza\\NorthWind_BlazingPizza\\NorthWind.BlazzingPizza.BlazorClient\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\NorthWind\\BlazingPizza\\NorthWind_BlazingPizza\\NorthWind.BlazzingPizza.BlazorClient\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\NorthWind\\BlazingPizza\\NorthWind_BlazingPizza\\NorthWind.BlazzingPizza.BlazorClient\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NorthWind.BlazzingPizza.BlazorClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NorthWind.BlazzingPizza.BlazorClient.props",
+      "PackagePath": "build\\NorthWind.BlazzingPizza.BlazorClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NorthWind.BlazzingPizza.BlazorClient.props",
+      "PackagePath": "buildMultiTargeting\\NorthWind.BlazzingPizza.BlazorClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NorthWind.BlazzingPizza.BlazorClient.props",
+      "PackagePath": "buildTransitive\\NorthWind.BlazzingPizza.BlazorClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

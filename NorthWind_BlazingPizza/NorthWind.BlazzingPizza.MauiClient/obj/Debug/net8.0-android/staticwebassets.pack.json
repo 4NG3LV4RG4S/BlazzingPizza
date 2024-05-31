@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\NorthWind\\BlazingPizza\\NorthWind_BlazingPizza\\NorthWind.BlazzingPizza.MauiClient\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\NorthWind.BlazzingPizza.MauiClient.styles.css",
+      "PackagePath": "staticwebassets\\NorthWind.BlazzingPizza.MauiClient.styles.css"
+    },
+    {
+      "Id": "C:\\NorthWind\\BlazingPizza\\NorthWind_BlazingPizza\\NorthWind.BlazzingPizza.MauiClient\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\NorthWind\\BlazingPizza\\NorthWind_BlazingPizza\\NorthWind.BlazzingPizza.MauiClient\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\NorthWind\\BlazingPizza\\NorthWind_BlazingPizza\\NorthWind.BlazzingPizza.MauiClient\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\NorthWind\\BlazingPizza\\NorthWind_BlazingPizza\\NorthWind.BlazzingPizza.MauiClient\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\NorthWind\\BlazingPizza\\NorthWind_BlazingPizza\\NorthWind.BlazzingPizza.MauiClient\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.NorthWind.BlazzingPizza.MauiClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.build.NorthWind.BlazzingPizza.MauiClient.props",
+      "PackagePath": "build\\NorthWind.BlazzingPizza.MauiClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.NorthWind.BlazzingPizza.MauiClient.props",
+      "PackagePath": "buildMultiTargeting\\NorthWind.BlazzingPizza.MauiClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.NorthWind.BlazzingPizza.MauiClient.props",
+      "PackagePath": "buildTransitive\\NorthWind.BlazzingPizza.MauiClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

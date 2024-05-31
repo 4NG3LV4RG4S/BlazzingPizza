@@ -1,0 +1,1 @@
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.MauiClient\NorthWind.BlazzingPizza.MauiClient.csproj;x64

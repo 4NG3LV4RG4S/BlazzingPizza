@@ -1,0 +1,24 @@
+﻿@using NortWind.BlazzingPizza.Entities.DTOs.GetSpecialsPizzas
+<div class="main">
+    <ul class="pizza-cards">
+        @if (ViewModel.SpecialsPizzas != null)
+        {
+            foreach (var i in ViewModel.SpecialsPizzas)
+            {
+                <li style="background-image: url('https://ticapacitacion.blob.core.windows.net/blazingpizzaimages/@i.ImageUrl')">
+                    <div class="pizza-info">
+                        <span class="title">
+                            @i.Name
+                        </span>
+                        
+                        @i.Description
+                        
+                        <span class="price">
+                            @i.BaseCostFormatter
+                        </span>
+                    </div>
+                </li>
+            }
+        }
+    </ul>
+</div>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "82yPRqeGA7g=",
+  "success": true,
+  "projectFilePath": "C:\\NorthWind\\BlazingPizza\\NortWind.BlazzingPizza.Frontend.ViewModels\\NortWind.BlazzingPizza.Frontend.ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juan_vargas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,39 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = NorthWind.BlazzingPizza.Frontend.RazorViews
+build_property.RootNamespace = NorthWind.BlazzingPizza.Frontend.RazorViews
+build_property.ProjectDir = C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/NorthWind/BlazingPizza/NorthWind_BlazingPizza/NorthWind.BlazzingPizza.Frontend.RazorViews/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NorthWind/BlazingPizza/NorthWind_BlazingPizza/NorthWind.BlazzingPizza.Frontend.RazorViews/Routing/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Um91dGluZ1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NorthWind/BlazingPizza/NorthWind_BlazingPizza/NorthWind.BlazzingPizza.Frontend.RazorViews/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NorthWind/BlazingPizza/NorthWind_BlazingPizza/NorthWind.BlazzingPizza.Frontend.RazorViews/Components/SpecialPizza.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTcGVjaWFsUGl6emEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-grr221pgnm
+
+[C:/NorthWind/BlazingPizza/NorthWind_BlazingPizza/NorthWind.BlazzingPizza.Frontend.RazorViews/Shared/_MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXF9NYWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-18yod45vzv

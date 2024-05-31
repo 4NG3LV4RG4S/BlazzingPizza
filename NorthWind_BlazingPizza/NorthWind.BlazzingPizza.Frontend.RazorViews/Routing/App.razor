@@ -1,0 +1,16 @@
+﻿<Router AppAssembly="typeof(App).Assembly">
+    <Found>
+        <RouteView RouteData="context" DefaultLayout="typeof(_MainLayout)"></RouteView>
+        <FocusOnNavigate RouteData="context" Selector="h1"></FocusOnNavigate>
+    </Found>
+    
+    <NotFound>
+        <PageTitle>@Messages.ResourceNotFoundPageTitle</PageTitle>
+        
+        <LayoutView Layout="typeof(_MainLayout)">
+            <p role="alert">
+                @Messages.ResourceNotFoundErrorMessage
+            </p>
+        </LayoutView>
+    </NotFound>
+</Router>

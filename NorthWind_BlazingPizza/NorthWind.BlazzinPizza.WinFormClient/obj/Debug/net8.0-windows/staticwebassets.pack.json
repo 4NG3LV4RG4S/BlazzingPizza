@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\NorthWind\\BlazingPizza\\NorthWind_BlazingPizza\\NorthWind.BlazzinPizza.WinFormClient\\obj\\Debug\\net8.0-windows\\scopedcss\\bundle\\NorthWind.BlazzinPizza.WinFormClient.styles.css",
+      "PackagePath": "staticwebassets\\NorthWind.BlazzinPizza.WinFormClient.styles.css"
+    },
+    {
+      "Id": "C:\\NorthWind\\BlazingPizza\\NorthWind_BlazingPizza\\NorthWind.BlazzinPizza.WinFormClient\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\NorthWind\\BlazingPizza\\NorthWind_BlazingPizza\\NorthWind.BlazzinPizza.WinFormClient\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\NorthWind\\BlazingPizza\\NorthWind_BlazingPizza\\NorthWind.BlazzinPizza.WinFormClient\\wwwroot\\images\\icon-512.png",
+      "PackagePath": "staticwebassets\\images\\icon-512.png"
+    },
+    {
+      "Id": "C:\\NorthWind\\BlazingPizza\\NorthWind_BlazingPizza\\NorthWind.BlazzinPizza.WinFormClient\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows\\staticwebassets\\msbuild.NorthWind.BlazzinPizza.WinFormClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows\\staticwebassets\\msbuild.build.NorthWind.BlazzinPizza.WinFormClient.props",
+      "PackagePath": "build\\NorthWind.BlazzinPizza.WinFormClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows\\staticwebassets\\msbuild.buildMultiTargeting.NorthWind.BlazzinPizza.WinFormClient.props",
+      "PackagePath": "buildMultiTargeting\\NorthWind.BlazzinPizza.WinFormClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows\\staticwebassets\\msbuild.buildTransitive.NorthWind.BlazzinPizza.WinFormClient.props",
+      "PackagePath": "buildTransitive\\NorthWind.BlazzinPizza.WinFormClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

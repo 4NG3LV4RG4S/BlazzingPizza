@@ -1,0 +1,50 @@
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.RazorViews.csproj.AssemblyReference.cache
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.RazorViews.Resources.Messages.resources
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.RazorViews.csproj.GenerateResource.cache
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.RazorViews.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.RazorViews.AssemblyInfoInputs.cache
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.RazorViews.AssemblyInfo.cs
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.RazorViews.csproj.CoreCompileInputs.cache
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\staticwebassets\msbuild.NorthWind.BlazzingPizza.Frontend.RazorViews.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\staticwebassets\msbuild.build.NorthWind.BlazzingPizza.Frontend.RazorViews.props
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NorthWind.BlazzingPizza.Frontend.RazorViews.props
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NorthWind.BlazzingPizza.Frontend.RazorViews.props
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.RazorViews.dll
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\refint\NorthWind.BlazzingPizza.Frontend.RazorViews.dll
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.RazorViews.pdb
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\bin\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.RazorViews.staticwebassets.runtime.json
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\bin\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.RazorViews.deps.json
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\bin\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.RazorViews.dll
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\bin\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.RazorViews.pdb
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\bin\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.BussinessObjects.dll
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\bin\Debug\net8.0\NortWind.BlazzingPizza.Entities.dll
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\bin\Debug\net8.0\NortWind.BlazzingPizza.Frontend.ViewModels.dll
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\bin\Debug\net8.0\NortWind.BlazzingPizza.Frontend.ViewModels.pdb
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\bin\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.BussinessObjects.pdb
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\bin\Debug\net8.0\NortWind.BlazzingPizza.Entities.pdb
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.RazorViews.csproj.AssemblyReference.cache
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.RazorViews.Resources.Messages.resources
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.RazorViews.csproj.GenerateResource.cache
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.RazorViews.GeneratedMSBuildEditorConfig.editorconfig
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.RazorViews.AssemblyInfoInputs.cache
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.RazorViews.AssemblyInfo.cs
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.RazorViews.csproj.CoreCompileInputs.cache
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\staticwebassets.build.json
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\staticwebassets.development.json
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\staticwebassets\msbuild.NorthWind.BlazzingPizza.Frontend.RazorViews.Microsoft.AspNetCore.StaticWebAssets.props
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\staticwebassets\msbuild.build.NorthWind.BlazzingPizza.Frontend.RazorViews.props
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NorthWind.BlazzingPizza.Frontend.RazorViews.props
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NorthWind.BlazzingPizza.Frontend.RazorViews.props
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\staticwebassets.pack.json
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\scopedcss\Components\SpecialPizza.razor.rz.scp.css
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\scopedcss\Shared\_MainLayout.razor.rz.scp.css
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\scopedcss\bundle\NorthWind.BlazzingPizza.Frontend.RazorViews.styles.css
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\scopedcss\projectbundle\NorthWind.BlazzingPizza.Frontend.RazorViews.bundle.scp.css
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\NorthWin.CE962DC0.Up2Date
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.RazorViews.dll
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\refint\NorthWind.BlazzingPizza.Frontend.RazorViews.dll
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.RazorViews.pdb
+C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\NorthWind.BlazzingPizza.Frontend.RazorViews\obj\Debug\net8.0\ref\NorthWind.BlazzingPizza.Frontend.RazorViews.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NorthWind.BlazzinPizza.WinFormClient.props" />
+</Project>
