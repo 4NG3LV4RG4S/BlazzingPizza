@@ -1,0 +1,34 @@
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\bin\Debug\net8.0\NortWind.BlazzingPizza.Frontend.ViewModels.deps.json
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\bin\Debug\net8.0\NortWind.BlazzingPizza.Frontend.ViewModels.dll
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\bin\Debug\net8.0\NortWind.BlazzingPizza.Frontend.ViewModels.pdb
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\bin\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.BussinessObjects.dll
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\bin\Debug\net8.0\NortWind.BlazzingPizza.Entities.dll
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\bin\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.BussinessObjects.pdb
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\bin\Debug\net8.0\NortWind.BlazzingPizza.Entities.pdb
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\obj\Debug\net8.0\NortWind.BlazzingPizza.Frontend.ViewModels.csproj.AssemblyReference.cache
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\obj\Debug\net8.0\NortWind.BlazzingPizza.Frontend.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\obj\Debug\net8.0\NortWind.BlazzingPizza.Frontend.ViewModels.AssemblyInfoInputs.cache
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\obj\Debug\net8.0\NortWind.BlazzingPizza.Frontend.ViewModels.AssemblyInfo.cs
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\obj\Debug\net8.0\NortWind.BlazzingPizza.Frontend.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\obj\Debug\net8.0\NortWind.C42CB960.Up2Date
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\obj\Debug\net8.0\NortWind.BlazzingPizza.Frontend.ViewModels.dll
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\obj\Debug\net8.0\refint\NortWind.BlazzingPizza.Frontend.ViewModels.dll
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\obj\Debug\net8.0\NortWind.BlazzingPizza.Frontend.ViewModels.pdb
+C:\Users\juan_vargas\OneDrive - Auto Todo Mexicana SA de CV\Escritorio\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\obj\Debug\net8.0\ref\NortWind.BlazzingPizza.Frontend.ViewModels.dll
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\bin\Debug\net8.0\NortWind.BlazzingPizza.Frontend.ViewModels.deps.json
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\bin\Debug\net8.0\NortWind.BlazzingPizza.Frontend.ViewModels.dll
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\bin\Debug\net8.0\NortWind.BlazzingPizza.Frontend.ViewModels.pdb
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\bin\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.BussinessObjects.dll
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\bin\Debug\net8.0\NortWind.BlazzingPizza.Entities.dll
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\bin\Debug\net8.0\NorthWind.BlazzingPizza.Frontend.BussinessObjects.pdb
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\bin\Debug\net8.0\NortWind.BlazzingPizza.Entities.pdb
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\obj\Debug\net8.0\NortWind.BlazzingPizza.Frontend.ViewModels.csproj.AssemblyReference.cache
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\obj\Debug\net8.0\NortWind.BlazzingPizza.Frontend.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\obj\Debug\net8.0\NortWind.BlazzingPizza.Frontend.ViewModels.AssemblyInfoInputs.cache
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\obj\Debug\net8.0\NortWind.BlazzingPizza.Frontend.ViewModels.AssemblyInfo.cs
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\obj\Debug\net8.0\NortWind.BlazzingPizza.Frontend.ViewModels.csproj.CoreCompileInputs.cache
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\obj\Debug\net8.0\NortWind.C42CB960.Up2Date
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\obj\Debug\net8.0\NortWind.BlazzingPizza.Frontend.ViewModels.dll
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\obj\Debug\net8.0\refint\NortWind.BlazzingPizza.Frontend.ViewModels.dll
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\obj\Debug\net8.0\NortWind.BlazzingPizza.Frontend.ViewModels.pdb
+C:\NorthWind\BlazingPizza\NortWind.BlazzingPizza.Frontend.ViewModels\obj\Debug\net8.0\ref\NortWind.BlazzingPizza.Frontend.ViewModels.dll

@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\NorthWind\\BlazingPizza\\NorthWind_BlazingPizza\\NorthWind.BlazzingPizza.WPFClient\\obj\\Debug\\net8.0-windows\\scopedcss\\bundle\\NorthWind.BlazzingPizza.WPFClient.styles.css",
+      "PackagePath": "staticwebassets\\NorthWind.BlazzingPizza.WPFClient.styles.css"
+    },
+    {
+      "Id": "C:\\NorthWind\\BlazingPizza\\NorthWind_BlazingPizza\\NorthWind.BlazzingPizza.WPFClient\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\NorthWind\\BlazingPizza\\NorthWind_BlazingPizza\\NorthWind.BlazzingPizza.WPFClient\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\NorthWind\\BlazingPizza\\NorthWind_BlazingPizza\\NorthWind.BlazzingPizza.WPFClient\\wwwroot\\images\\icon-512.png",
+      "PackagePath": "staticwebassets\\images\\icon-512.png"
+    },
+    {
+      "Id": "C:\\NorthWind\\BlazingPizza\\NorthWind_BlazingPizza\\NorthWind.BlazzingPizza.WPFClient\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows\\staticwebassets\\msbuild.NorthWind.BlazzingPizza.WPFClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows\\staticwebassets\\msbuild.build.NorthWind.BlazzingPizza.WPFClient.props",
+      "PackagePath": "build\\NorthWind.BlazzingPizza.WPFClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows\\staticwebassets\\msbuild.buildMultiTargeting.NorthWind.BlazzingPizza.WPFClient.props",
+      "PackagePath": "buildMultiTargeting\\NorthWind.BlazzingPizza.WPFClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows\\staticwebassets\\msbuild.buildTransitive.NorthWind.BlazzingPizza.WPFClient.props",
+      "PackagePath": "buildTransitive\\NorthWind.BlazzingPizza.WPFClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

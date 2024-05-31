@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NorthWind.BlazzingPizza.Frontend.RazorViews.props" />
+</Project>

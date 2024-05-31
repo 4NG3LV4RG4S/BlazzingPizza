@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NorthWind.BlazzingPizza.Frontend.BussinessObjects/1.0.0": {
+        "dependencies": {
+          "NortWind.BlazzingPizza.Entities": "1.0.0"
+        },
+        "runtime": {
+          "NorthWind.BlazzingPizza.Frontend.BussinessObjects.dll": {}
+        }
+      },
+      "NortWind.BlazzingPizza.Entities/1.0.0": {
+        "runtime": {
+          "NortWind.BlazzingPizza.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NorthWind.BlazzingPizza.Frontend.BussinessObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NortWind.BlazzingPizza.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

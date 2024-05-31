@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NorthWind_BlazingPizza
+build_property.RootNamespace = NorthWind_BlazingPizza
+build_property.ProjectDir = C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\NorthWind\BlazingPizza\NorthWind_BlazingPizza
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/NorthWind/BlazingPizza/NorthWind_BlazingPizza/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NorthWind/BlazingPizza/NorthWind_BlazingPizza/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NorthWind/BlazingPizza/NorthWind_BlazingPizza/NorthWind.BlazzingPizza.BlazorClient/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Tm9ydGhXaW5kLkJsYXp6aW5nUGl6emEuQmxhem9yQ2xpZW50XF9JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NorthWind/BlazingPizza/NorthWind_BlazingPizza/NorthWind.BlazzingPizza.Frontend.RazorViews/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Tm9ydGhXaW5kLkJsYXp6aW5nUGl6emEuRnJvbnRlbmQuUmF6b3JWaWV3c1xQYWdlc1xJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NorthWind/BlazingPizza/NorthWind_BlazingPizza/NorthWind.BlazzingPizza.Frontend.RazorViews/Routing/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Tm9ydGhXaW5kLkJsYXp6aW5nUGl6emEuRnJvbnRlbmQuUmF6b3JWaWV3c1xSb3V0aW5nXEFwcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NorthWind/BlazingPizza/NorthWind_BlazingPizza/NorthWind.BlazzingPizza.Frontend.RazorViews/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Tm9ydGhXaW5kLkJsYXp6aW5nUGl6emEuRnJvbnRlbmQuUmF6b3JWaWV3c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NorthWind/BlazingPizza/NorthWind_BlazingPizza/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NorthWind/BlazingPizza/NorthWind_BlazingPizza/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/NorthWind/BlazingPizza/NorthWind_BlazingPizza/NorthWind.BlazzingPizza.Frontend.RazorViews/Components/SpecialPizza.razor]
+build_metadata.AdditionalFiles.TargetPath = Tm9ydGhXaW5kLkJsYXp6aW5nUGl6emEuRnJvbnRlbmQuUmF6b3JWaWV3c1xDb21wb25lbnRzXFNwZWNpYWxQaXp6YS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-bhuposq0xb
+
+[C:/NorthWind/BlazingPizza/NorthWind_BlazingPizza/NorthWind.BlazzingPizza.Frontend.RazorViews/Shared/_MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Tm9ydGhXaW5kLkJsYXp6aW5nUGl6emEuRnJvbnRlbmQuUmF6b3JWaWV3c1xTaGFyZWRcX01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-82l032v2oc
